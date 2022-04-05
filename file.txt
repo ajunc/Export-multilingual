@@ -1,0 +1,3215 @@
+{
+    "button.search.search": {
+        "en": "Search",
+        "zh": "搜索"
+    },
+    "button.data.export": {
+        "en": "Export",
+        "zh": "导出"
+    },
+    "button.operate.detail": {
+        "en": "Detail",
+        "zh": "详情"
+    },
+    "button.operate.cancel": {
+        "en": "Cancel",
+        "zh": "取消"
+    },
+    "button.operate.delete": {
+        "en": "Delete",
+        "zh": "删除"
+    },
+    "button.operate.confirm": {
+        "en": "Confirm",
+        "zh": "确定"
+    },
+    "button.operate.reset": {
+        "en": "Reset",
+        "zh": "重置"
+    },
+    "button.operate.submit": {
+        "en": "Submit",
+        "zh": "提交"
+    },
+    "button.purchase.addOrder": {
+        "en": "CreatePurchaseOrder",
+        "zh": "新建采购单"
+    },
+    "component.tagSelect.expand": {
+        "en": "Expand",
+        "zh": "展开"
+    },
+    "component.tagSelect.collapse": {
+        "en": "Collapse",
+        "zh": "收起"
+    },
+    "component.tagSelect.all": {
+        "en": "All",
+        "zh": "全部"
+    },
+    "component.globalHeader.search": {
+        "en": "Search",
+        "zh": "站内搜索"
+    },
+    "component.globalHeader.search.example1": {
+        "en": "Searchexample1",
+        "zh": "搜索提示一"
+    },
+    "component.globalHeader.search.example2": {
+        "en": "Searchexample2",
+        "zh": "搜索提示二"
+    },
+    "component.globalHeader.search.example3": {
+        "en": "Searchexample3",
+        "zh": "搜索提示三"
+    },
+    "component.globalHeader.help": {
+        "en": "Help",
+        "zh": "使用文档"
+    },
+    "component.globalHeader.notification": {
+        "en": "Notification",
+        "zh": "通知"
+    },
+    "component.globalHeader.notification.empty": {
+        "en": "Youhaveviewedallnotifications.",
+        "zh": "你已查看所有通知"
+    },
+    "component.globalHeader.message": {
+        "en": "Message",
+        "zh": "消息"
+    },
+    "component.globalHeader.message.empty": {
+        "en": "Youhaveviewedallmesssages.",
+        "zh": "您已读完所有消息"
+    },
+    "component.globalHeader.event": {
+        "en": "Event",
+        "zh": "待办"
+    },
+    "component.globalHeader.event.empty": {
+        "en": "Youhaveviewedallevents.",
+        "zh": "你已完成所有待办"
+    },
+    "component.noticeIcon.clear": {
+        "en": "Clear",
+        "zh": "清空"
+    },
+    "component.noticeIcon.cleared": {
+        "en": "Cleared",
+        "zh": "清空了"
+    },
+    "component.noticeIcon.empty": {
+        "en": "Nonotifications",
+        "zh": "暂无数据"
+    },
+    "component.noticeIcon.view-more": {
+        "en": "Viewmore",
+        "zh": "查看更多"
+    },
+    "app.imei.imeiManagement": {
+        "en": "IMEIManagement",
+        "zh": "IMEI管理"
+    },
+    "app.imei.currentInventory": {
+        "en": "Currentinventory",
+        "zh": "当前库存"
+    },
+    "app.imei.scanIMEIEnter": {
+        "en": "ScantheIMEIcodetoenter",
+        "zh": "扫IMEI码录入"
+    },
+    "app.imei.focusScanIMEI": {
+        "en": "FocustoscanIMEI",
+        "zh": "聚焦扫描IMEI"
+    },
+    "app.imei.scanBox": {
+        "en": "Scantheboxgaugecodeentry",
+        "zh": "扫箱规码录入"
+    },
+    "app.imei.focusScanCartonCode": {
+        "en": "Focustoscancartoncode",
+        "zh": "聚焦扫描纸箱代码"
+    },
+    "app.imei.manuallyEnterIMEI": {
+        "en": "ManuallyenterIMEI",
+        "zh": "手动录入IMEI"
+    },
+    "app.imei.EnterSerialBelow": {
+        "en": "Pleaseentertheserialnumberbelow,multipleserialnumbersseparatedbyEnglish,",
+        "zh": "请在下方输入序列号,多个序列号用英文“,”隔开"
+    },
+    "app.imei.manuallyEnterBoxGauge": {
+        "en": "Manuallyentertheboxgauge",
+        "zh": "手动录入箱规码"
+    },
+    "app.imei.sureDelete": {
+        "en": "Suretodelete?",
+        "zh": "确定要删除？"
+    },
+    "app.imei.verifyResults": {
+        "en": "Verifytheresults",
+        "zh": "校验结果"
+    },
+    "app.imei.IMEISuccess": {
+        "en": "IMEISuccess",
+        "zh": "IMEI成功"
+    },
+    "app.imei.already": {
+        "en": "Already",
+        "zh": "已经"
+    },
+    "app.imei.IMEIFailed": {
+        "en": "IMEIFailed",
+        "zh": "IMEI失败"
+    },
+    "app.imei.IMEINeedScanOrInput": {
+        "en": "IMEIneedtoscanorinput.",
+        "zh": "IMEI需要扫描或输入"
+    },
+    "app.information.open": {
+        "en": "Open",
+        "zh": "开"
+    },
+    "app.information.close": {
+        "en": "Close",
+        "zh": "关闭"
+    },
+    "app.information.Edit": {
+        "en": "Edit",
+        "zh": "编辑"
+    },
+    "app.information.supplierName": {
+        "en": "SupplierName",
+        "zh": "供货商名称"
+    },
+    "app.information.please-enter-the-name-of-the-supplier": {
+        "en": "Pleaseenterthenameofthesupplier",
+        "zh": "请输入供货商名称"
+    },
+    "app.information.supplier-name-is-required": {
+        "en": "Suppliernameisrequired",
+        "zh": "供货商名称为必填项"
+    },
+    "app.information.supplierAddress": {
+        "en": "SupplierAddress",
+        "zh": "供货商地址"
+    },
+    "app.information.supplierCode": {
+        "en": "Suppliercode",
+        "zh": "供货商编号"
+    },
+    "app.information.reset": {
+        "en": "Reset",
+        "zh": "重置"
+    },
+    "app.information.submit": {
+        "en": "Submit",
+        "zh": "提交"
+    },
+    "app.information.Contacts": {
+        "en": "Contacts",
+        "zh": "联系人"
+    },
+    "app.information.Telephone": {
+        "en": "Telephone",
+        "zh": "电话"
+    },
+    "app.information.supplierPhone": {
+        "en": "SupplierPhone",
+        "zh": "供货商电话"
+    },
+    "app.information.address": {
+        "en": "Address",
+        "zh": "地址"
+    },
+    "app.information.remarks": {
+        "en": "Remarks",
+        "zh": "备注"
+    },
+    "app.information.Status": {
+        "en": "Status",
+        "zh": "状态"
+    },
+    "app.information.disable": {
+        "en": "disable",
+        "zh": "关闭"
+    },
+    "app.information.enable": {
+        "en": "enable",
+        "zh": "开启"
+    },
+    "app.information.queryTable": {
+        "en": "QueryTable",
+        "zh": "查询表格"
+    },
+    "app.information.addSupplier": {
+        "en": "AddSupplier",
+        "zh": "添加供货商"
+    },
+    "app.information.createSupplier": {
+        "en": "CreateSupplier",
+        "zh": "创建供货商"
+    },
+    "app.information.warehouseAddress": {
+        "en": "WarehouseAddress",
+        "zh": "仓库地址"
+    },
+    "app.setting.basicInformation": {
+        "en": "Basicinformation",
+        "zh": "基本信息"
+    },
+    "app.information.warehouseContacter": {
+        "en": "WarehouseContacter",
+        "zh": "仓库联系人"
+    },
+    "app.information.warehousePhone": {
+        "en": "WarehousePhone",
+        "zh": "仓库电话"
+    },
+    "app.information.wareHouseName": {
+        "en": "WarehouseName",
+        "zh": "仓库名称"
+    },
+    "app.information.wareHouseCode": {
+        "en": "WareHouseCode",
+        "zh": "仓库编号"
+    },
+    "app.information.createWarehouse": {
+        "en": "Createwarehouse",
+        "zh": "创建仓库"
+    },
+    "app.information.updateWarehouse": {
+        "en": "UpdateWarehouse",
+        "zh": "修改仓库"
+    },
+    "app.information.selectArea": {
+        "en": "PleaseSelectArea",
+        "zh": "选择区域"
+    },
+    "app.information.shipmentSettings": {
+        "en": "Shipmentsettings",
+        "zh": "发货设置"
+    },
+    "app.information.updateWarehouseInformation": {
+        "en": "Updatewarehouseinformation",
+        "zh": "修改供货商信息"
+    },
+    "app.information.warehouseTelephone": {
+        "en": "WarehouseTelephone",
+        "zh": "仓库联系电话"
+    },
+    "app.information.warehouseRemark": {
+        "en": "WarehouseRemark",
+        "zh": "仓库备注"
+    },
+    "app.information.supplierContacter": {
+        "en": "SupplierContacter",
+        "zh": "供货商联系人"
+    },
+    "app.information.canSendRegion": {
+        "en": "CoverageArea",
+        "zh": "可发区域"
+    },
+    "app.information.setWarehousePriority": {
+        "en": "Setwarehousepriority",
+        "zh": "设置仓库优先级"
+    },
+    "app.information.sortingAdjustment": {
+        "en": "SortingAdjustment",
+        "zh": "排序调整"
+    },
+    "app.information.operation": {
+        "en": "Operation",
+        "zh": "操作"
+    },
+    "app.information.up": {
+        "en": "Up",
+        "zh": "向上"
+    },
+    "app.information.down": {
+        "en": "Down",
+        "zh": "向下"
+    },
+    "app.information.reset-password": {
+        "en": "ResetPassword",
+        "zh": "重置密码"
+    },
+    "app.information.warehouseName": {
+        "en": "WarehouseName",
+        "zh": "仓库名称"
+    },
+    "app.information.warehouseNameOrCode": {
+        "en": "Warehousenameorcode",
+        "zh": "仓库名称或编号"
+    },
+    "app.information.supplierNameOrCode": {
+        "en": "Suppliernameorcode",
+        "zh": "供货商名称或编号"
+    },
+    "app.information.pleaseEnterWarehouseName": {
+        "en": "Pleaseenterwarehousename",
+        "zh": "请输入仓库名称"
+    },
+    "app.information.WarehouseNameIsRequired": {
+        "en": "Warehousenameisrequired",
+        "zh": "仓库名称是必填项"
+    },
+    "app.information.supplierNameIsRequired": {
+        "en": "Suppliernameisrequired",
+        "zh": "供货商名称是必填项"
+    },
+    "app.information.PleaseEnterContacter": {
+        "en": "Pleaseentercontacter"
+    },
+    "app.information.PleaseEnterwarehousecode": {
+        "en": "Pleaseenterwarehousecode"
+    },
+    "app.information.setShippingAreas": {
+        "en": "Setshippingareas",
+        "zh": "设置发货地区"
+    },
+    "app.information.set-shipping-areas": {
+        "en": "Setshippingareas",
+        "zh": "设置配送区域"
+    },
+    "app.information.success": {
+        "en": "Success",
+        "zh": "成功"
+    },
+    "app.information.failed": {
+        "en": "Failed",
+        "zh": "失败"
+    },
+    "inventory.Supplier": {
+        "en": "Supplier",
+        "zh": "供应商"
+    },
+    "inventory.SelectSupplier": {
+        "en": "Pleaseselectasupplier",
+        "zh": "请选择供应商"
+    },
+    "inventory.InbounWarehouse": {
+        "en": "InboundWarehouse",
+        "zh": "入库仓库"
+    },
+    "inventory.OutboundWarehouse": {
+        "en": "Outboundwarehouse",
+        "zh": "出库仓库"
+    },
+    "inventory.SelectWarehouse": {
+        "en": "Pleaseselectawarehouse",
+        "zh": "请选择仓库"
+    },
+    "inventory.SelectSourceUserName": {
+        "en": "Pleaseselectclient",
+        "zh": "请选择客户"
+    },
+    "inventory.BusinessType": {
+        "en": "BusinessType",
+        "zh": "业务类型"
+    },
+    "inventory.SelectBusinessType": {
+        "en": "PleaseselecttheBusinessType",
+        "zh": "请选择业务类型"
+    },
+    "inventory.Other": {
+        "en": "Other",
+        "zh": "其他"
+    },
+    "inventory.PanSurplus": {
+        "en": "InventoryProfit",
+        "zh": "盘盈"
+    },
+    "inventory.Loss": {
+        "en": "InventoryLoss",
+        "zh": "盘亏"
+    },
+    "inventory.offline": {
+        "en": "OfflineOrder",
+        "zh": "线下订单"
+    },
+    "inventory.DocumentDate": {
+        "en": "Documentdate",
+        "zh": "单据日期"
+    },
+    "inventory.SelectDocumentDate": {
+        "en": "Pleaseselectadocumentdate",
+        "zh": "请选择单据日期"
+    },
+    "inventory.Remark": {
+        "en": "Remark",
+        "zh": "备注"
+    },
+    "inventory.SerialNumber": {
+        "en": "No.",
+        "zh": "序号"
+    },
+    "inventory.InventoryQuantity": {
+        "en": "InboundQuantity",
+        "zh": "入库数量"
+    },
+    "inventory.OutboundQuantity": {
+        "en": "Inventoryquantity",
+        "zh": "出库数量"
+    },
+    "inventory.InboundUnitPrice": {
+        "en": "Inboundunitprice",
+        "zh": "入库单价"
+    },
+    "inventory.OutboundUnitPrice": {
+        "en": "Outboundunitprice",
+        "zh": "出库单价"
+    },
+    "inventory.InboundAmount": {
+        "en": "InboundAmount",
+        "zh": "入库金额"
+    },
+    "inventory.Total": {
+        "en": "Total",
+        "zh": "合计"
+    },
+    "inventory.DocumentNumber": {
+        "en": "DocumentNumber",
+        "zh": "单据编号"
+    },
+    "inventory.OtherInboundOrderDetails": {
+        "en": "Otherinboundorderdetails",
+        "zh": "其它入库单详情"
+    },
+    "inventory.OtherOutboundOrderDetails": {
+        "en": "Otheroutboundorderdetails",
+        "zh": "其它出库单详情"
+    },
+    "inventory.SubmittedSuccessfully": {
+        "en": "Submittedsuccessfully",
+        "zh": "提交成功"
+    },
+    "inventory.SubmissionFailed": {
+        "en": "SubmissionFailed",
+        "zh": "提交失败"
+    },
+    "inventory.AddOrderForm": {
+        "en": "CreatePurchaseOrder",
+        "zh": "添加订货单"
+    },
+    "inventory.Added": {
+        "en": "Added",
+        "zh": "已添加"
+    },
+    "inventory.Delete": {
+        "en": "Delete",
+        "zh": "删除"
+    },
+    "inventory.PleaseEnter": {
+        "en": "Pleaseenter",
+        "zh": "请输入"
+    },
+    "inventory.Operate": {
+        "en": "Operation",
+        "zh": "操作"
+    },
+    "inventory.Details": {
+        "en": "Detail",
+        "zh": "详情"
+    },
+    "inventory.Storehouse": {
+        "en": "Warehouse",
+        "zh": "仓库"
+    },
+    "inventory.PreparedBy": {
+        "en": "Creater",
+        "zh": "制单人"
+    },
+    "inventory.Add": {
+        "en": "Create",
+        "zh": "新增"
+    },
+    "inventory.Export": {
+        "en": "Export",
+        "zh": "导出"
+    },
+    "inventory.Importing": {
+        "en": "Importing...",
+        "zh": "正在导入..."
+    },
+    "inventory.Downloading": {
+        "en": "Downloading...",
+        "zh": "正在下载..."
+    },
+    "inventory.excelTip": {
+        "en": "Thefileformatmustbexls,xlsx",
+        "zh": "文件格式必须为xls、xlsx"
+    },
+    "inventory.fileSizeTip": {
+        "en": "Filecannotexceed5MB!",
+        "zh": "文件不能超过5MB!"
+    },
+    "inventory.ImportSucc": {
+        "en": "Importsuccess",
+        "zh": "导入成功"
+    },
+    "inventory.Importfailed": {
+        "en": "Importfailed",
+        "zh": "导入失败"
+    },
+    "inventory.downloadTpl": {
+        "en": "Pleasedownloadthetemplate",
+        "zh": "请先下载‘导入模板’"
+    },
+    "inventory.downloadIMEITpl": {
+        "en": "DownloadIMEIimporttemplate",
+        "zh": "下载IMEI导入模板"
+    },
+    "inventory.downloadCartonCodeTpl": {
+        "en": "Downloadcartoncodeimporttemplate",
+        "zh": "下载箱规码导入模板"
+    },
+    "inventory.InitialInventoryImport": {
+        "en": "InitialInventoryImport",
+        "zh": "期初库存导入"
+    },
+    "inventory.exportFile": {
+        "en": "Uploadtheimportfile",
+        "zh": "上传导入文件"
+    },
+    "inventory.exportFileTip": {
+        "en": "Pleaseuploadtheimportfile",
+        "zh": "请上传导入文件"
+    },
+    "inventory.exportNum": {
+        "en": "Totalimport",
+        "zh": "共导入"
+    },
+    "inventory.exportPieces": {
+        "en": "piecesofdata",
+        "zh": "条数据"
+    },
+    "inventory.pieces": {
+        "en": "pieces",
+        "zh": "条"
+    },
+    "inventory.failed": {
+        "en": "Failed",
+        "zh": "失败"
+    },
+    "inventory.InitialInventory": {
+        "en": "InitialInventory",
+        "zh": "期初入库"
+    },
+    "inventory.downFailedLog": {
+        "en": "Downloadfailurerecord",
+        "zh": "下载失败记录"
+    },
+    "inventory.uploadTip": {
+        "en": "Clickordragthefiletotheuploadarea(Maximum5MB)",
+        "zh": "点击或拖拽文件到上传区域(最大5MB)"
+    },
+    "inventory.otherOutboundOrders.quantity-limit": {
+        "en": "Thequantityofallgoodsoutboundmustbegreaterthan0",
+        "zh": "所有商品出库数量必须大于0"
+    },
+    "inventory.otherInboundOrders.quantity-limit": {
+        "en": "Thequantityofallgoodswarehousingmustbegreaterthan0",
+        "zh": "所有商品入库数量必须大于0"
+    },
+    "inventory.otherOutboundOrders.please-enter-the-outbound-unit-price": {
+        "en": "Pleaseentertheoutboundunitprice",
+        "zh": "请输入出库单价"
+    },
+    "inventory.otherOutboundOrders.please-select-an-item": {
+        "en": "Pleaseselectagoods",
+        "zh": "请选择商品"
+    },
+    "inventory.otherInboundOrders.failed-to-get-document-number-please-try-again": {
+        "en": "Failedtogetdocumentnumber,pleasetryagain",
+        "zh": "获取单据编号失败，请重试"
+    },
+    "inventory.otherInboundOrders.please-enter-the-inbound-unit-price": {
+        "en": "Pleaseentertheinboundunitprice",
+        "zh": "请输入入库单价"
+    },
+    "inventory.otherInboundOrders.add-receipt": {
+        "en": "Addreceipt",
+        "zh": "添加入库单"
+    },
+    "inventory.otherOutboundOrders.outbound-unit-price": {
+        "en": "Outboundunitprice",
+        "zh": "出库单价"
+    },
+    "inventory.otherOutboundOrders.outbound-amount": {
+        "en": "Outboundamount",
+        "zh": "出库金额"
+    },
+    "inventory.otherInboundOrders.please-select-the-outbound-warehouse-first": {
+        "en": "Pleaseselecttheoutboundwarehousefirst",
+        "zh": "请先选择出库仓库"
+    },
+    "inventory.otherInboundOrders.select-the-inbound-warehouse-first": {
+        "en": "Pleaseselecttheinboundrepositoryfirst",
+        "zh": "请先选择入库仓库"
+    },
+    "app.StockControl.InventoryQuery.distribution": {
+        "en": "InventoryDetails",
+        "zh": "库存分布"
+    },
+    "app.StockControl.InventoryQuery.Stream": {
+        "en": "InventoryRecords",
+        "zh": "库存流水"
+    },
+    "app.StockControl.InventoryQuery.Id": {
+        "en": "No.",
+        "zh": "序号"
+    },
+    "app.StockControl.InventoryQuery.option": {
+        "en": "Operation",
+        "zh": "操作"
+    },
+    "app.StockControl.InventoryQuery.supplierName": {
+        "en": "Goodsowners",
+        "zh": "货主"
+    },
+    "app.StockControl.InventoryQuery.productName": {
+        "en": "GoodsName",
+        "zh": "商品名称"
+    },
+    "app.StockControl.InventoryQuery.skuId": {
+        "en": "GoodsNumber",
+        "zh": "商品编号"
+    },
+    "app.StockControl.InventoryQuery.categoryBackName": {
+        "en": "GoodsCategory",
+        "zh": "商品分类"
+    },
+    "app.StockControl.InventoryQuery.attributeValue": {
+        "en": "Goodsspecification",
+        "zh": "规格"
+    },
+    "app.StockControl.InventoryQuery.saleUnit": {
+        "en": "Unit",
+        "zh": "单位"
+    },
+    "app.StockControl.InventoryQuery.inboundQuantitySumAmount": {
+        "en": "PendingInbound",
+        "zh": "待入库"
+    },
+    "app.StockControl.InventoryQuery.inTransitQuantitySumAmount": {
+        "en": "Onway",
+        "zh": "在途库存"
+    },
+    "app.StockControl.InventoryQuery.availableQuantitySumAmount": {
+        "en": "Available",
+        "zh": "可用库存"
+    },
+    "app.StockControl.InventoryQuery.sellableQuantity": {
+        "en": "InventorySellable",
+        "zh": "可售库存"
+    },
+    "app.StockControl.InventoryQuery.occupiedQuantitySumAmount": {
+        "en": "Occupied",
+        "zh": "订单占用"
+    },
+    "app.StockControl.InventoryQuery.outboundQuantitySumAmount": {
+        "en": "PendingOutbound",
+        "zh": "待出库"
+    },
+    "app.StockControl.InventoryQuery.defectiveQuantitySumAmount": {
+        "en": "Defective",
+        "zh": "不良品"
+    },
+    "app.StockControl.InventoryQuery.receivedStorageCount": {
+        "en": "Shipped",
+        "zh": "已出库"
+    },
+    "app.StockControl.InventoryQuery.weightedCostprice": {
+        "en": "CostPrice",
+        "zh": "成本价"
+    },
+    "app.StockControl.InventoryQuery.inventoryAmount": {
+        "en": "InventoryAmount",
+        "zh": "库存总额"
+    },
+    "app.StockControl.InventoryQuery.queryTable": {
+        "en": "QueryTable",
+        "zh": "查询表格"
+    },
+    "app.StockControl.InventoryQuery.purchaseWarehousing": {
+        "en": "PurchaseInbound",
+        "zh": "采购入库"
+    },
+    "app.StockControl.InventoryQuery.transferReceipt": {
+        "en": "TransferInbound",
+        "zh": "调拨入库"
+    },
+    "app.StockControl.InventoryQuery.afterSales": {
+        "en": "AftersaleInbound",
+        "zh": "售后入库"
+    },
+    "app.StockControl.InventoryQuery.otherIn": {
+        "en": "OtherInbound",
+        "zh": "其他入库"
+    },
+    "app.StockControl.InventoryQuery.salesIn": {
+        "en": "Saleswarehousing",
+        "zh": "销售入库"
+    },
+    "app.StockControl.InventoryQuery.SalesOut": {
+        "en": "SalesDelivery",
+        "zh": "销售出库"
+    },
+    "app.StockControl.InventoryQuery.transferIssue": {
+        "en": "Transferissue",
+        "zh": "调拨出库"
+    },
+    "app.StockControl.InventoryQuery.otherOut": {
+        "en": "OtherOutbound",
+        "zh": "其他出库"
+    },
+    "app.StockControl.InventoryQuery.purchaseReturn": {
+        "en": "PurchaseReturn",
+        "zh": "采购退货"
+    },
+    "app.StockControl.InventoryQuery.businessType": {
+        "en": "BusinessType",
+        "zh": "业务类型"
+    },
+    "app.StockControl.InventoryQuery.gmtCreate": {
+        "en": "Date",
+        "zh": "日期"
+    },
+    "app.StockControl.InventoryQuery.outPutStorageCode": {
+        "en": "Issue/receiptdocNo",
+        "zh": "出入库单号"
+    },
+    "app.StockControl.InventoryQuery.assocationBusinessType": {
+        "en": "BusinessType",
+        "zh": "关联业务类型"
+    },
+    "app.StockControl.InventoryQuery.changeSourceCode": {
+        "en": "BusinessDocuments",
+        "zh": "关联业务单号"
+    },
+    "app.StockControl.InventoryQuery.changeQuantityin": {
+        "en": "InboundQuantity",
+        "zh": "入库量"
+    },
+    "app.StockControl.InventoryQuery.changeQuantityout": {
+        "en": "OutboundQuantity",
+        "zh": "出库量"
+    },
+    "app.StockControl.InitialInventory.InitialNum": {
+        "en": "InitialQuantity",
+        "zh": "期初数量"
+    },
+    "app.StockControl.InitialInventory.ImportBatchNumber": {
+        "en": "Importbatchnumber",
+        "zh": "导入批次号"
+    },
+    "app.StockControl.InitialInventory.ImportTime": {
+        "en": "ImportTime",
+        "zh": "导入时间"
+    },
+    "app.StockControl.InitialInventory.ViewImportRecords": {
+        "en": "Viewimportrecords",
+        "zh": "查看导入记录"
+    },
+    "app.StockControl.InitialInventory.ImportbyIMEI": {
+        "en": "ImportbyIMEI",
+        "zh": "按IMEI导入"
+    },
+    "app.StockControl.InitialInventory.ImportbyCartonCode": {
+        "en": "ImportbyCartonCode",
+        "zh": "按箱规码导入"
+    },
+    "app.InitialInventory.ImportResults": {
+        "en": "Importresults",
+        "zh": "导入结果"
+    },
+    "menu.welcome": {
+        "en": "Welcome",
+        "zh": "欢迎"
+    },
+    "menu.more-blocks": {
+        "en": "MoreBlocks",
+        "zh": "更多区块"
+    },
+    "menu.home": {
+        "en": "Home",
+        "zh": "首页"
+    },
+    "menu.admin": {
+        "en": "Admin",
+        "zh": "管理页"
+    },
+    "menu.admin.sub-page": {
+        "en": "Sub-Page",
+        "zh": "二级管理页"
+    },
+    "menu.login": {
+        "en": "Login",
+        "zh": "登录"
+    },
+    "menu.register": {
+        "en": "Register",
+        "zh": "注册"
+    },
+    "menu.register-result": {
+        "en": "RegisterResult",
+        "zh": "注册结果"
+    },
+    "menu.StockControl": {
+        "en": "StockControl",
+        "zh": "库存"
+    },
+    "menu.StockControl.warehousing": {
+        "en": "Inbound",
+        "zh": "入库"
+    },
+    "menu.warehousing": {
+        "en": "Inbound",
+        "zh": "入库"
+    },
+    "menu.dashboard": {
+        "en": "Dashboard",
+        "zh": "Dashboard"
+    },
+    "menu.dashboard.analysis": {
+        "en": "Analysis",
+        "zh": "分析页"
+    },
+    "menu.dashboard.monitor": {
+        "en": "Monitor",
+        "zh": "监控页"
+    },
+    "menu.dashboard.workplace": {
+        "en": "Workplace",
+        "zh": "工作台"
+    },
+    "menu.exception.403": {
+        "en": "403",
+        "zh": "403"
+    },
+    "menu.exception.404": {
+        "en": "404",
+        "zh": "404"
+    },
+    "menu.exception.500": {
+        "en": "500",
+        "zh": "500"
+    },
+    "menu.form": {
+        "en": "Form",
+        "zh": "表单页"
+    },
+    "menu.form.basic-form": {
+        "en": "BasicForm",
+        "zh": "基础表单"
+    },
+    "menu.form.step-form": {
+        "en": "StepForm",
+        "zh": "分步表单"
+    },
+    "menu.form.step-form.info": {
+        "en": "StepForm(writetransferinformation)",
+        "zh": "分步表单（填写转账信息）"
+    },
+    "menu.form.step-form.confirm": {
+        "en": "StepForm(confirmtransferinformation)",
+        "zh": "分步表单（确认转账信息）"
+    },
+    "menu.form.step-form.result": {
+        "en": "StepForm(finished)",
+        "zh": "分步表单（完成）"
+    },
+    "menu.form.advanced-form": {
+        "en": "AdvancedForm",
+        "zh": "高级表单"
+    },
+    "menu.list": {
+        "en": "List",
+        "zh": "列表页"
+    },
+    "menu.list.table-list": {
+        "en": "SearchTable",
+        "zh": "查询表格"
+    },
+    "menu.list.basic-list": {
+        "en": "BasicList",
+        "zh": "标准列表"
+    },
+    "menu.list.card-list": {
+        "en": "CardList",
+        "zh": "卡片列表"
+    },
+    "menu.list.search-list": {
+        "en": "SearchList",
+        "zh": "搜索列表"
+    },
+    "menu.list.search-list.articles": {
+        "en": "SearchList(articles)",
+        "zh": "搜索列表（文章）"
+    },
+    "menu.list.search-list.projects": {
+        "en": "SearchList(projects)",
+        "zh": "搜索列表（项目）"
+    },
+    "menu.list.search-list.applications": {
+        "en": "SearchList(applications)",
+        "zh": "搜索列表（应用）"
+    },
+    "menu.profile": {
+        "en": "Profile",
+        "zh": "详情页"
+    },
+    "menu.profile.basic": {
+        "en": "BasicProfile",
+        "zh": "基础详情页"
+    },
+    "menu.profile.advanced": {
+        "en": "AdvancedProfile",
+        "zh": "高级详情页"
+    },
+    "menu.result": {
+        "en": "Result",
+        "zh": "结果页"
+    },
+    "menu.result.success": {
+        "en": "Success",
+        "zh": "成功页"
+    },
+    "menu.result.fail": {
+        "en": "Fail",
+        "zh": "失败页"
+    },
+    "menu.exception": {
+        "en": "Exception",
+        "zh": "异常页"
+    },
+    "menu.exception.not-permission": {
+        "en": "403",
+        "zh": "403"
+    },
+    "menu.exception.not-find": {
+        "en": "404",
+        "zh": "404"
+    },
+    "menu.exception.server-error": {
+        "en": "500",
+        "zh": "500"
+    },
+    "menu.exception.trigger": {
+        "en": "Trigger",
+        "zh": "触发错误"
+    },
+    "menu.account": {
+        "en": "Account",
+        "zh": "个人页"
+    },
+    "menu.account.center": {
+        "en": "AccountCenter",
+        "zh": "个人中心"
+    },
+    "menu.account.settings": {
+        "en": "AccountSettings",
+        "zh": "个人设置"
+    },
+    "menu.account.trigger": {
+        "en": "TriggerError",
+        "zh": "触发报错"
+    },
+    "menu.account.logout": {
+        "en": "Logout",
+        "zh": "退出登录"
+    },
+    "menu.editor": {
+        "en": "GraphicEditor",
+        "zh": "图形编辑器"
+    },
+    "menu.editor.flow": {
+        "en": "FlowEditor",
+        "zh": "流程编辑器"
+    },
+    "menu.editor.mind": {
+        "en": "MindEditor",
+        "zh": "脑图编辑器"
+    },
+    "menu.editor.koni": {
+        "en": "KoniEditor",
+        "zh": "拓扑编辑器"
+    },
+    "menu.EmployeeAccount": {
+        "en": "EmployeeAccount",
+        "zh": "员工账户"
+    },
+    "menu.Setting.EmployeeAccount": {
+        "en": "EmployeeAccount",
+        "zh": "员工账户"
+    },
+    "menu.Setting": {
+        "en": "Settings",
+        "zh": "设置"
+    },
+    "menu.BusinessSettings": {
+        "en": "BusinessSettings",
+        "zh": "业务设置"
+    },
+    "menu.Setting.BusinessSettings": {
+        "en": "BusinessSettings",
+        "zh": "业务设置"
+    },
+    "menu.Purchasing": {
+        "en": "Purchase",
+        "zh": "采购"
+    },
+    "menu.Purchasing.PurchaseOrder": {
+        "en": "PurchaseOrder",
+        "zh": "采购订单"
+    },
+    "menu.PurchaseOrder": {
+        "en": "PurchaseOrder",
+        "zh": "采购订单"
+    },
+    "menu.RolePermissions": {
+        "en": "RolePermissions",
+        "zh": "角色权限"
+    },
+    "menu.Setting.RolePermissions": {
+        "en": "RolePermissions",
+        "zh": "角色权限"
+    },
+    "menu.BasicInfo": {
+        "en": "BasicInfo",
+        "zh": "基础资料"
+    },
+    "menu.GoodsManagement": {
+        "en": "GoodsManagement",
+        "zh": "商品管理"
+    },
+    "menu.BasicInfo.GoodsManagement": {
+        "en": "GoodsManagement",
+        "zh": "商品管理"
+    },
+    "menu.Warehouse": {
+        "en": "Warehouse",
+        "zh": "仓库"
+    },
+    "menu.BasicInfo.Warehouse": {
+        "en": "Warehouse",
+        "zh": "仓库管理"
+    },
+    "menu.StockControl.Transfer": {
+        "en": "Transfer",
+        "zh": "调拨"
+    },
+    "menu.Transfer": {
+        "en": "Transfer",
+        "zh": "调拨"
+    },
+    "menu.StockControl.OutOfStock": {
+        "en": "Outbound",
+        "zh": "出库"
+    },
+    "menu.OutOfStock": {
+        "en": "Outbound",
+        "zh": "出库"
+    },
+    "menu.Sales": {
+        "en": "Sales",
+        "zh": "销售"
+    },
+    "menu.Sales.SalesOrder": {
+        "en": "SalesOrder",
+        "zh": "销售订单"
+    },
+    "menu.SalesOrder": {
+        "en": "SalesOrder",
+        "zh": "销售订单"
+    },
+    "menu.SupplierManagement": {
+        "en": "SupplierManagement",
+        "zh": "供应商管理"
+    },
+    "menu.BasicInfo.SupplierManagement": {
+        "en": "SupplierManagement",
+        "zh": "供应商管理"
+    },
+    "menu.table-list": {
+        "en": "table-list",
+        "zh": "table-list"
+    },
+    "menu.basic-list": {
+        "en": "menu.basic-list",
+        "zh": "menu.basic-list"
+    },
+    "menu.card-list": {
+        "en": "card-list",
+        "zh": "card-list"
+    },
+    "menu.Purchasing.PurchaseOrderAdd": {
+        "en": "AddPurchaseOrder",
+        "zh": "新增采购单"
+    },
+    "menu.outStock": {
+        "en": "Outbound",
+        "zh": "出库"
+    },
+    "menu.outStock.OtherOutboundAdd": {
+        "en": "AddOtherOutbound",
+        "zh": "新增其它出库单"
+    },
+    "menu.outStock.EditSalesInbound": {
+        "en": "Outbound",
+        "zh": "出库"
+    },
+    "menu.outStock.OtherOutbound": {
+        "en": "OtherOutbound",
+        "zh": "其他出库"
+    },
+    "menu.outStock.SalesInbound": {
+        "en": "SalesOutbound",
+        "zh": "销售出库"
+    },
+    "menu.warehousing.OtherInbound": {
+        "en": "OtherInbound",
+        "zh": "其它入库"
+    },
+    "menu.warehousing.PurchaseInbound": {
+        "en": "PurchaseInbound",
+        "zh": "采购入库"
+    },
+    "menu.warehousing.EditPurchaseInbound": {
+        "en": "PurchaseInbound",
+        "zh": "采购入库"
+    },
+    "menu.Dashboard.Welcome": {
+        "en": "Welcome",
+        "zh": "欢迎"
+    },
+    "menu.Dashboard": {
+        "en": "Dashboard",
+        "zh": "仪表板"
+    },
+    "menu.StockControl.SerialNumberQuery": {
+        "en": "SerialNumberQuery",
+        "zh": "序列号查询"
+    },
+    "menu.SerialNumberQuery": {
+        "en": "SerialNumberQuery",
+        "zh": "序列号查询"
+    },
+    "menu.StockControl.InventoryQuery": {
+        "en": "InventoryQuery",
+        "zh": "库存查询"
+    },
+    "menu.InventoryQuery": {
+        "en": "InventoryQuery",
+        "zh": "库存查询"
+    },
+    "menu.StockControl.AddOtherWarehousing": {
+        "en": "AddOtherWarehousing",
+        "zh": "新增其它入库单"
+    },
+    "menu.AddOtherWarehousing": {
+        "en": "AddOtherWarehousing",
+        "zh": "新增其它入库单"
+    },
+    "menu.StockControl.OtherInboundOrders": {
+        "en": "OtherInboundOrders",
+        "zh": "其它入库订单"
+    },
+    "menu.OtherInboundOrders": {
+        "en": "OtherInboundOrders",
+        "zh": "其它入库订单"
+    },
+    "menu.StockControl.OtherOutboundOrders": {
+        "en": "OtherOutboundOrders",
+        "zh": "其它出库订单"
+    },
+    "menu.OtherOutboundOrders": {
+        "en": "OtherOutboundOrders",
+        "zh": "其它出库订单"
+    },
+    "menu.Sales.SalesInboundOrder": {
+        "en": "SalesOutboundOrder",
+        "zh": "销售出库订单"
+    },
+    "menu.SalesInboundOrder": {
+        "en": "SalesOutboundOrder",
+        "zh": "销售出库订单"
+    },
+    "menu.Setting.RolePermissionsEdit": {
+        "en": "RolePermissionsEdit",
+        "zh": "权限设置"
+    },
+    "menu.RolePermissionsEdit": {
+        "en": "RolePermissionsEdit",
+        "zh": "角色权限编辑"
+    },
+    "menu.Purchasing.PurchaseInboundOrder": {
+        "en": "PurchaseInboundOrder",
+        "zh": "采购入库单"
+    },
+    "menu.PurchaseInboundOrder": {
+        "en": "PurchaseInboundOrder",
+        "zh": "采购入库单"
+    },
+    "menu.StockControl.AddOtherOutbound": {
+        "en": "Addoutbound",
+        "zh": "新增其它出库单"
+    },
+    "menu.PurchaseInbound": {
+        "en": "PurchaseInbound",
+        "zh": "采购入库"
+    },
+    "menu.OtherInbound": {
+        "en": "OtherInbound",
+        "zh": "其他入库"
+    },
+    "menu.SalesInbound": {
+        "en": "SalesOutbound",
+        "zh": "销售出库"
+    },
+    "menu.OtherOutbound": {
+        "en": "OtherOutbound",
+        "zh": "其他出库"
+    },
+    "menu.warehousing.OtherInboundAdd": {
+        "en": "AddOtherIutbound",
+        "zh": "新增其它入库单"
+    },
+    "menu.Warehousing": {
+        "en": "Warehousing",
+        "zh": "入库"
+    },
+    "menu.Warehousing.PurchaseInbound": {
+        "en": "PurchaseInbound",
+        "zh": "采购入库"
+    },
+    "menu.Warehousing.OtherInbound": {
+        "en": "OtherInbound",
+        "zh": "其他入库"
+    },
+    "menu.StockControl.InitialInventory": {
+        "en": "InitialInventory",
+        "zh": "期初库存"
+    },
+    "menu.InitialInventory": {
+        "en": "InitialInventory",
+        "zh": "期初库存"
+    },
+    "menu.采购订单": {
+        "en": "PurchaseOrder",
+        "zh": "采购订单"
+    },
+    "menu.销售订单": {
+        "en": "SalesOrder",
+        "zh": "销售订单"
+    },
+    "menu.采购入库": {
+        "en": "PurchaseInbound",
+        "zh": "采购入库"
+    },
+    "menu.其他入库": {
+        "en": "OtherInbound",
+        "zh": "其他入库"
+    },
+    "menu.销售出库": {
+        "en": "SalesOutbound",
+        "zh": "销售出库"
+    },
+    "menu.其他出库": {
+        "en": "OtherOutbound",
+        "zh": "其他出库"
+    },
+    "menu.库存查询": {
+        "en": "InventoryQuery",
+        "zh": "库存查询"
+    },
+    "menu.序列号查询": {
+        "en": "SerialNumberQuery",
+        "zh": "序列号查询"
+    },
+    "menu.期初库存": {
+        "en": "InitialInventory",
+        "zh": "期初库存"
+    },
+    "menu.商品管理": {
+        "en": "GoodsManagement",
+        "zh": "商品管理"
+    },
+    "menu.供应商管理": {
+        "en": "SupplierManagement",
+        "zh": "供应商管理"
+    },
+    "menu.仓库管理": {
+        "en": "Warehouse",
+        "zh": "仓库管理"
+    },
+    "menu.员工账号": {
+        "en": "EmployeeAccount",
+        "zh": "员工账号"
+    },
+    "menu.角色权限": {
+        "en": "RolePermissions",
+        "zh": "角色权限"
+    },
+    "menu.业务设置": {
+        "en": "BusinessSettings",
+        "zh": "业务设置"
+    },
+    "menu.库存.期初库存": {
+        "en": "InitialInventory",
+        "zh": "期初库存"
+    },
+    "menu.出库.线下订单出库": {
+        "en": "OfflineOrderDelivery",
+        "zh": "线下订单出库"
+    },
+    "menu.设置.权限设置": {
+        "en": "RolePermissionsEdit",
+        "zh": "权限设置"
+    },
+    "menu.outStock.OfflineOrderDelivery": {
+        "en": "OfflineOrderDelivery",
+        "zh": "线下订单出库"
+    },
+    "menu.设置.业务设置": {
+        "en": "BusinessSettings",
+        "zh": "业务设置"
+    },
+    "menu.设置": {
+        "en": "Settings",
+        "zh": "设置"
+    },
+    "menu.首页": {
+        "en": "Dashboard",
+        "zh": "仪表板"
+    },
+    "menu.首页.欢迎": {
+        "en": "Welcome",
+        "zh": "欢迎"
+    },
+    "menu.采购": {
+        "en": "Purchase",
+        "zh": "采购"
+    },
+    "menu.采购.采购订单": {
+        "en": "PurchaseInbound",
+        "zh": "采购订单"
+    },
+    "menu.销售": {
+        "en": "Sales",
+        "zh": "销售"
+    },
+    "menu.销售.销售订单": {
+        "en": "SalesOrder",
+        "zh": "销售订单"
+    },
+    "menu.入库": {
+        "en": "Inbound",
+        "zh": "入库"
+    },
+    "menu.入库.采购入库": {
+        "en": "PurchaseInbound",
+        "zh": "采购入库"
+    },
+    "menu.入库.其他入库": {
+        "en": "OtherInbound",
+        "zh": "其他入库"
+    },
+    "menu.出库": {
+        "en": "Outbound",
+        "zh": "出库"
+    },
+    "menu.出库.销售出库": {
+        "en": "SalesOutbound",
+        "zh": "销售出库"
+    },
+    "menu.出库.其他出库": {
+        "en": "OtherOutbound",
+        "zh": "其他出库"
+    },
+    "menu.库存": {
+        "en": "StockControl",
+        "zh": "库存"
+    },
+    "menu.库存.库存查询": {
+        "en": "InventoryQuery",
+        "zh": "库存查询"
+    },
+    "menu.库存.序列号查询": {
+        "en": "SerialNumberQuery",
+        "zh": "序列号查询"
+    },
+    "menu.基础资料": {
+        "en": "BasicInfo",
+        "zh": "基础资料"
+    },
+    "menu.基础资料.商品管理": {
+        "en": "GoodsManagement",
+        "zh": "商品管理"
+    },
+    "menu.基础资料.供应商管理": {
+        "en": "SupplierManagement",
+        "zh": "供应商管理"
+    },
+    "menu.基础资料.仓库管理": {
+        "en": "Warehouse",
+        "zh": "仓库管理"
+    },
+    "menu.设置.员工账号": {
+        "en": "EmployeeAccount",
+        "zh": "员工账号"
+    },
+    "menu.设置.角色权限": {
+        "en": "RolePermissions",
+        "zh": "角色权限"
+    },
+    "message.fetch.sumitSuccess": {
+        "en": "Submittedsuccessfully",
+        "zh": "提交成功"
+    },
+    "message.fetch.sumitFailed": {
+        "en": "SubmissionFailed",
+        "zh": "提交失败"
+    },
+    "message.fetch.cancelSuccess": {
+        "en": "Cancelsuccess",
+        "zh": "取消成功"
+    },
+    "message.fetch.cancelFailed": {
+        "en": "Cancellationfailed",
+        "zh": "取消失败"
+    },
+    "message.product.pleaseSelectProduct": {
+        "en": "Pleaseselectagoods",
+        "zh": "请选择商品"
+    },
+    "message.purchase.failedToGetNumberPleaseTryAgain": {
+        "en": "Failedtogetdocumentnumber,pleasetryagain",
+        "zh": "获取单据编号失败，请重试"
+    },
+    "message.purchase.pleaseEnterQty": {
+        "en": "Pleaseenterquantity",
+        "zh": "请输入数量"
+    },
+    "message.purchase.pleaseEnterPurchasePrice": {
+        "en": "Pleaseenterthepurchaseprice",
+        "zh": "请输入采购价格"
+    },
+    "message.purchase.pleaseEnterSth": {
+        "en": "Pleaseenter",
+        "zh": "请输入"
+    },
+    "message.purchase.pleaseSelectSth": {
+        "en": "Pleaseselect",
+        "zh": "请选择"
+    },
+    "message.purchase.pleaseSelectSupplier": {
+        "en": "Pleaseselectsupplier",
+        "zh": "请选择供应商"
+    },
+    "message.purchase.pleaseSelectWarehouse": {
+        "en": "Pleaseselectwarehouse",
+        "zh": "请选择仓库"
+    },
+    "message.purchase.pleaseSelectDate": {
+        "en": "Pleaseselectadocumentdate",
+        "zh": "请选择单据日期"
+    },
+    "message.purchase.youSureToCancel": {
+        "en": "Areyousuretocancelthispurchaseorder?",
+        "zh": "确定要取消这个采购单吗？"
+    },
+    "order.purchasingOrder.orderNo": {
+        "en": "DocumentNumber",
+        "zh": "单据编号"
+    },
+    "order.purchasingOrder.orderDate": {
+        "en": "DocumentDate",
+        "zh": "单据日期"
+    },
+    "order.purchasingOrder.orderStatus": {
+        "en": "OrderStatus",
+        "zh": "订单状态"
+    },
+    "order.purchasingOrder.creator": {
+        "en": "Creater",
+        "zh": "制单人"
+    },
+    "order.purchasingOrder.paidAmount": {
+        "en": "AmountPaid",
+        "zh": "已付金额"
+    },
+    "order.purchasingOrder.purchaseAmount": {
+        "en": "PurchaseAmount",
+        "zh": "采购金额"
+    },
+    "order.purchasingOrder.unitPrice": {
+        "en": "Purchaseunitprice",
+        "zh": "采购单价"
+    },
+    "order.purchasingOrder.otherCost": {
+        "en": "OtherFees",
+        "zh": "其他费用"
+    },
+    "order.purchasingOrder.paymentNow": {
+        "en": "AmountPaid",
+        "zh": "本次付款"
+    },
+    "order.purchasingOrder.settlementAcc": {
+        "en": "SettlementAccount",
+        "zh": "结算账户"
+    },
+    "order.purchasingOrder.ManuallyCreate": {
+        "en": "PSI",
+        "zh": "PSI"
+    },
+    "order.purchasingOrder.synchronousByEgatee": {
+        "en": "Egatee",
+        "zh": "Egatee"
+    },
+    "order.purchasingTitle.orderDetail": {
+        "en": "PurchaseOrderDetails",
+        "zh": "采购单详情"
+    },
+    "order.order.paymentStatus": {
+        "en": "PaymentStatus",
+        "zh": "付款状态"
+    },
+    "order.order.unPaid": {
+        "en": "Unpaid",
+        "zh": "未付款"
+    },
+    "order.order.status": {
+        "en": "Status",
+        "zh": "状态"
+    },
+    "order.order.count": {
+        "en": "Quantity",
+        "zh": "数量"
+    },
+    "order.order.amount": {
+        "en": "Amount",
+        "zh": "金额"
+    },
+    "order.order.remark": {
+        "en": "Remark",
+        "zh": "备注"
+    },
+    "order.order.total": {
+        "en": "Total",
+        "zh": "合计"
+    },
+    "order.order.partialPaid": {
+        "en": "PartiallyPaid",
+        "zh": "部分付款"
+    },
+    "order.order.paid": {
+        "en": "Paid",
+        "zh": "全部付款"
+    },
+    "order.order.allPaid": {
+        "en": "AllPaid",
+        "zh": "全部付款"
+    },
+    "order.order.merchant": {
+        "en": "Merchant",
+        "zh": "商家"
+    },
+    "order.salesInboundOrder.serial-number": {
+        "en": "No.",
+        "zh": "序号"
+    },
+    "order.salesInboundOrder.out-of-stock": {
+        "en": "Outbound",
+        "zh": "出库"
+    },
+    "order.salesInboundOrder.associated-business-document-number": {
+        "en": "BusinessDocuments",
+        "zh": "关联业务单据编号"
+    },
+    "order.salesInboundOrder.client": {
+        "en": "Client",
+        "zh": "客户"
+    },
+    "order.salesInboundOrder.outbound-warehouse": {
+        "en": "OutboundWarehouse",
+        "zh": "出库仓库"
+    },
+    "order.salesInboundOrder.partialPaid": {
+        "en": "QuantityOutbound",
+        "zh": "已出库数量"
+    },
+    "order.salesInboundOrder.all": {
+        "en": "All",
+        "zh": "全部"
+    },
+    "order.salesInboundOrder.pending-outbound": {
+        "en": "PendingOutbound",
+        "zh": "未出库"
+    },
+    "order.salesInboundOrder.partially-outbound": {
+        "en": "PartiallyOutbound",
+        "zh": "部分出库"
+    },
+    "order.salesInboundOrder.completed-outbound": {
+        "en": "CompletedOutbound",
+        "zh": "全部出库"
+    },
+    "order.salesInboundOrder.product-name": {
+        "en": "ProductName",
+        "zh": "商品名称"
+    },
+    "order.salesInboundOrder.product-number": {
+        "en": "ProductNumber",
+        "zh": "商品编号"
+    },
+    "order.salesInboundOrder.specification": {
+        "en": "Specification",
+        "zh": "规格"
+    },
+    "order.salesInboundOrder.unit": {
+        "en": "Unit",
+        "zh": "单位"
+    },
+    "order.salesInboundOrder.commodity-batch": {
+        "en": "CommodityBatch",
+        "zh": "商品批次"
+    },
+    "order.purchaseInboundOrder.business-document-number": {
+        "en": "Businessdocumentnumber",
+        "zh": "业务单据编号"
+    },
+    "order.purchaseInboundOrder.supplier": {
+        "en": "Supplier",
+        "zh": "供应商"
+    },
+    "order.purchaseInboundOrder.inbound-warehouse": {
+        "en": "InboundWarehouse",
+        "zh": "入库仓库"
+    },
+    "order.purchaseInboundOrder.purchase-quantity": {
+        "en": "PurchaseQuantity",
+        "zh": "采购数量"
+    },
+    "order.purchaseInboundOrder.inventory-quantity": {
+        "en": "Inventoryquantity",
+        "zh": "已入库数量"
+    },
+    "order.purchaseInboundOrder.partial-storage": {
+        "en": "PartiallyInbound",
+        "zh": "部分入库"
+    },
+    "order.purchaseInboundOrder.completed-inbound": {
+        "en": "CompletedInbound",
+        "zh": "全部入库"
+    },
+    "order.purchaseInboundOrder.export": {
+        "en": "Export",
+        "zh": "导出"
+    },
+    "order.purchaseInboundOrder.inbound-order-number": {
+        "en": "Inboundordernumber",
+        "zh": "入库单号"
+    },
+    "order.purchaseInboundOrder.can-enter": {
+        "en": "Canenter",
+        "zh": "可入"
+    },
+    "order.purchaseInboundOrder.available": {
+        "en": "Available",
+        "zh": "可出"
+    },
+    "order.salesInboundOrder.sales-volume": {
+        "en": "SaleQuantity",
+        "zh": "销售数量"
+    },
+    "order.salesInboundOrder.outbound-quantity": {
+        "en": "OutboundQuantity",
+        "zh": "已出库数量"
+    },
+    "pages.layouts.userLayout.title": {
+        "en": "Purchase,Sales&Inventory",
+        "zh": "Purchase,Sales&Inventory"
+    },
+    "pages.login.accountLogin.tab": {
+        "en": "AccountLogin",
+        "zh": "账户密码登录"
+    },
+    "pages.login.accountLogin.errorMessage": {
+        "en": "Incorrectusername/password(admin/ant.design)",
+        "zh": "错误的用户名和密码(admin/ant.design)"
+    },
+    "pages.login.failure": {
+        "en": "Loginfailed,pleasetryagain!",
+        "zh": "登录失败，请重试！"
+    },
+    "pages.login.success": {
+        "en": "Loginsuccessful!",
+        "zh": "登录成功！"
+    },
+    "pages.login.username.placeholder": {
+        "en": "Username",
+        "zh": "用户名"
+    },
+    "pages.login.username.required": {
+        "en": "Pleaseinputyourusername!",
+        "zh": "用户名是必填项！"
+    },
+    "pages.login.password.placeholder": {
+        "en": "Password",
+        "zh": "密码"
+    },
+    "pages.login.password.required": {
+        "en": "Pleaseinputyourpassword!",
+        "zh": "密码是必填项！"
+    },
+    "pages.login.phoneLogin.tab": {
+        "en": "PhoneLogin",
+        "zh": "手机号登录"
+    },
+    "pages.login.phoneLogin.errorMessage": {
+        "en": "VerificationCodeError",
+        "zh": "验证码错误"
+    },
+    "pages.login.phoneNumber.placeholder": {
+        "en": "PhoneNumber",
+        "zh": "请输入手机号！"
+    },
+    "pages.login.phoneNumber.required": {
+        "en": "Pleaseinputyourphonenumber!",
+        "zh": "手机号是必填项！"
+    },
+    "pages.login.phoneNumber.invalid": {
+        "en": "Phonenumberisinvalid!",
+        "zh": "不合法的手机号！"
+    },
+    "pages.login.captcha.placeholder": {
+        "en": "VerificationCode",
+        "zh": "请输入验证码！"
+    },
+    "pages.login.captcha.required": {
+        "en": "Pleaseinputverificationcode!",
+        "zh": "验证码是必填项！"
+    },
+    "pages.login.phoneLogin.getVerificationCode": {
+        "en": "GetCode",
+        "zh": "获取验证码"
+    },
+    "pages.getCaptchaSecondText": {
+        "en": "sec(s)",
+        "zh": "秒后重新获取"
+    },
+    "pages.login.rememberMe": {
+        "en": "Rememberme",
+        "zh": "自动登录"
+    },
+    "pages.login.forgotPassword": {
+        "en": "ForgotPassword?",
+        "zh": "忘记密码?"
+    },
+    "pages.login.submit": {
+        "en": "Login",
+        "zh": "登录"
+    },
+    "pages.login.loginWith": {
+        "en": "Loginwith:",
+        "zh": "其他登录方式:"
+    },
+    "pages.login.registerAccount": {
+        "en": "RegisterAccount",
+        "zh": "注册账户"
+    },
+    "pages.welcome.advancedComponent": {
+        "en": "AdvancedComponent",
+        "zh": "高级表格"
+    },
+    "pages.welcome.link": {
+        "en": "Welcome",
+        "zh": "欢迎使用"
+    },
+    "pages.welcome.advancedLayout": {
+        "en": "AdvancedLayout",
+        "zh": "高级布局"
+    },
+    "pages.welcome.alertMessage": {
+        "en": "Fasterandstrongerheavy-dutycomponentshavebeenreleased.",
+        "zh": "更快更强的重型组件，已经发布。"
+    },
+    "pages.admin.subPage.title": {
+        "en": "ThispagecanonlybeviewedbyAdmin",
+        "zh": "这个页面只有admin权限才能查看"
+    },
+    "pages.admin.subPage.alertMessage": {
+        "en": "Umiuiisnowreleased,welcometousenpmrunuitostarttheexperience.",
+        "zh": "umiui现已发布，欢迎使用npmrunui启动体验。"
+    },
+    "pages.searchTable.createForm.newRule": {
+        "en": "NewRule",
+        "zh": "新建规则"
+    },
+    "pages.searchTable.updateForm.ruleConfig": {
+        "en": "Ruleconfiguration",
+        "zh": "规则配置"
+    },
+    "pages.searchTable.updateForm.basicConfig": {
+        "en": "BasicInformation",
+        "zh": "基本信息"
+    },
+    "pages.searchTable.updateForm.ruleName.nameLabel": {
+        "en": "RuleName",
+        "zh": "规则名称"
+    },
+    "pages.searchTable.updateForm.ruleName.nameRules": {
+        "en": "Pleaseentertherulename!",
+        "zh": "请输入规则名称！"
+    },
+    "pages.searchTable.updateForm.ruleDesc.descLabel": {
+        "en": "RuleDescription",
+        "zh": "规则描述"
+    },
+    "pages.searchTable.updateForm.ruleDesc.descPlaceholder": {
+        "en": "Pleaseenteratleastfivecharacters",
+        "zh": "请输入至少五个字符"
+    },
+    "pages.searchTable.updateForm.ruleDesc.descRules": {
+        "en": "Pleaseenteraruledescriptionofatleastfivecharacters!",
+        "zh": "请输入至少五个字符的规则描述！"
+    },
+    "pages.searchTable.updateForm.ruleProps.title": {
+        "en": "ConfigureProperties",
+        "zh": "配置规则属性"
+    },
+    "pages.searchTable.updateForm.object": {
+        "en": "MonitoringObject",
+        "zh": "监控对象"
+    },
+    "pages.searchTable.updateForm.ruleProps.templateLabel": {
+        "en": "RuleTemplate",
+        "zh": "规则模板"
+    },
+    "pages.searchTable.updateForm.ruleProps.typeLabel": {
+        "en": "RuleType",
+        "zh": "规则类型"
+    },
+    "pages.searchTable.updateForm.schedulingPeriod.title": {
+        "en": "SetSchedulingPeriod",
+        "zh": "设定调度周期"
+    },
+    "pages.searchTable.updateForm.schedulingPeriod.timeLabel": {
+        "en": "StartingTime",
+        "zh": "开始时间"
+    },
+    "pages.searchTable.updateForm.schedulingPeriod.timeRules": {
+        "en": "Pleasechooseastarttime!",
+        "zh": "请选择开始时间！"
+    },
+    "pages.searchTable.titleDesc": {
+        "en": "Description",
+        "zh": "描述"
+    },
+    "pages.searchTable.ruleName": {
+        "en": "Rulenameisrequired",
+        "zh": "规则名称为必填项"
+    },
+    "pages.searchTable.titleCallNo": {
+        "en": "NumberofServiceCalls",
+        "zh": "服务调用次数"
+    },
+    "pages.searchTable.titleStatus": {
+        "en": "Status",
+        "zh": "状态"
+    },
+    "pages.searchTable.nameStatus.default": {
+        "en": "default",
+        "zh": "关闭"
+    },
+    "pages.searchTable.nameStatus.running": {
+        "en": "running",
+        "zh": "运行中"
+    },
+    "pages.searchTable.nameStatus.online": {
+        "en": "online",
+        "zh": "已上线"
+    },
+    "pages.searchTable.nameStatus.abnormal": {
+        "en": "abnormal",
+        "zh": "异常"
+    },
+    "pages.searchTable.titleUpdatedAt": {
+        "en": "LastScheduledat",
+        "zh": "上次调度时间"
+    },
+    "pages.searchTable.exception": {
+        "en": "Pleaseenterthereasonfortheexception!",
+        "zh": "请输入异常原因！"
+    },
+    "pages.searchTable.titleOption": {
+        "en": "Option",
+        "zh": "操作"
+    },
+    "pages.searchTable.config": {
+        "en": "Configuration",
+        "zh": "配置"
+    },
+    "pages.searchTable.subscribeAlert": {
+        "en": "Subscribetoalerts",
+        "zh": "订阅警报"
+    },
+    "pages.searchTable.title": {
+        "en": "EnquiryForm",
+        "zh": "查询表格"
+    },
+    "pages.searchTable.new": {
+        "en": "New",
+        "zh": "新建"
+    },
+    "pages.searchTable.chosen": {
+        "en": "chosen",
+        "zh": "已选择"
+    },
+    "pages.searchTable.item": {
+        "en": "item",
+        "zh": "项"
+    },
+    "pages.searchTable.totalServiceCalls": {
+        "en": "TotalNumberofServiceCalls",
+        "zh": "服务调用次数总计"
+    },
+    "pages.searchTable.tenThousand": {
+        "en": "0000",
+        "zh": "万"
+    },
+    "pages.searchTable.batchDeletion": {
+        "en": "bacthdeletion",
+        "zh": "批量删除"
+    },
+    "pages.searchTable.batchApproval": {
+        "en": "batchapproval",
+        "zh": "批量审批"
+    },
+    "product.productSelect.productName": {
+        "en": "GoodsName",
+        "zh": "商品名称"
+    },
+    "product.productSelect.pleaseEnterProductName": {
+        "en": "Pleaseenterthegoodsname",
+        "zh": "请输入商品名称"
+    },
+    "product.productSelect.productNo": {
+        "en": "GoodsNumber",
+        "zh": "商品编号"
+    },
+    "product.productSelect.pleaseEnterProductNo": {
+        "en": "Pleaseenterthegoodsnumber",
+        "zh": "请输入商品编号"
+    },
+    "product.productSelect.productClassification": {
+        "en": "ProductClassification",
+        "zh": "商品分类"
+    },
+    "product.productSelect.pleaseSelectProductCat": {
+        "en": "PleaseSelectProductClassification",
+        "zh": "请选择商品分类"
+    },
+    "product.productSelect.productImg": {
+        "en": "ProductImg",
+        "zh": "商品图片"
+    },
+    "product.productSelect.productSpecification": {
+        "en": "ProductSpecification",
+        "zh": "规格"
+    },
+    "product.productSelect.productUnit": {
+        "en": "ProductUnit",
+        "zh": "单位"
+    },
+    "product.productSelect.chooseProduct": {
+        "en": "SelectGoods",
+        "zh": "选择商品"
+    },
+    "product.productSelect.purchasePrice": {
+        "en": "PurchasePrice",
+        "zh": "采购价"
+    },
+    "product.productSelect.salePrice": {
+        "en": "SalePrice",
+        "zh": "销售价"
+    },
+    "product.productSelect.serialCodeManagement": {
+        "en": "SerialCodeManagement",
+        "zh": "串码管理"
+    },
+    "product.productSelect.externalNumber": {
+        "en": "ExternalNumber",
+        "zh": "外部编号"
+    },
+    "product.productSelect.source": {
+        "en": "Source",
+        "zh": "来源"
+    },
+    "product.product.supplierName": {
+        "en": "Supplier",
+        "zh": "供应商"
+    },
+    "product.product.product": {
+        "en": "Product",
+        "zh": "商品"
+    },
+    "product.warehouse.warehouseName": {
+        "en": "WarehouseName",
+        "zh": "仓库名称"
+    },
+    "product.warehouse.stockWarehouse": {
+        "en": "InboundWarehouse",
+        "zh": "入仓仓库"
+    },
+    "product.warehouse.warehouse": {
+        "en": "Warehouse",
+        "zh": "仓库"
+    },
+    "product.warehouse.closed": {
+        "en": "Canceled",
+        "zh": "已取消"
+    },
+    "product.warehouse.notInStock": {
+        "en": "PendingInbound",
+        "zh": "未入库"
+    },
+    "product.warehouse.partialStorage": {
+        "en": "PartiallyInbound",
+        "zh": "部分入库"
+    },
+    "product.warehouse.inStock": {
+        "en": "CompletedInbound",
+        "zh": "已入库"
+    },
+    "app.pwa.offline": {
+        "en": "Youareofflinenow",
+        "zh": "当前处于离线状态"
+    },
+    "app.pwa.serviceworker.updated": {
+        "en": "Newcontentisavailable",
+        "zh": "有新内容"
+    },
+    "app.pwa.serviceworker.updated.hint": {
+        "en": "PleasepresstheRefreshbuttontoreloadcurrentpage",
+        "zh": "请点击“刷新”按钮或者手动刷新页面"
+    },
+    "app.pwa.serviceworker.updated.ok": {
+        "en": "Refresh",
+        "zh": "刷新"
+    },
+    "request.statusMsg.200": {
+        "en": "Theserversuccessfullyreturnedtherequesteddata",
+        "zh": "服务器成功返回请求的数据"
+    },
+    "request.statusMsg.201": {
+        "en": "Newormodifieddataissuccessful",
+        "zh": "新建或修改数据成功"
+    },
+    "request.statusMsg.202": {
+        "en": "Arequesthasbeenqueuedinthebackground(asynctask).",
+        "zh": "一个请求已经进入后台排队（异步任务）。"
+    },
+    "request.statusMsg.203": {
+        "en": "UnauthorizedinformationTherequestwassuccessfulHowever,thereturnedmetainformationisnotintheoriginalserver,butacopy.",
+        "zh": "非授权信息.请求成功.但返回的meta信息不在原始服务器而是一个副本。"
+    },
+    "request.statusMsg.204": {
+        "en": "Deletedatasuccessfully",
+        "zh": "删除数据成功"
+    },
+    "request.statusMsg.400": {
+        "en": "Thereisanerrorintherequestsent,andtheserverdoesnotcreateormodifydata.",
+        "zh": "发出的请求有错误，服务器没有进行新建或修改数据的操作。"
+    },
+    "request.statusMsg.401": {
+        "en": "Userdoesnothavepermission(token,username,passwordincorrect).",
+        "zh": "用户没有权限（令牌、用户名、密码错误）。"
+    },
+    "request.statusMsg.403": {
+        "en": "Userisauthorized,butaccessisforbidden.",
+        "zh": "用户得到授权，但是访问是被禁止的。"
+    },
+    "request.statusMsg.404": {
+        "en": "Therequestwasmadeforanon-existentrecord,andtheserverdidnothing.",
+        "zh": "发出的请求针对的是不存在的记录，服务器没有进行操作。"
+    },
+    "request.statusMsg.406": {
+        "en": "Therequestedformatisnotavailable.",
+        "zh": "请求的格式不可得。"
+    },
+    "request.statusMsg.410": {
+        "en": "Therequestedresourceispermanentlydeletedandwillnolongerbeavailable.",
+        "zh": "请求的资源被永久删除，且不会再得到的。"
+    },
+    "request.statusMsg.422": {
+        "en": "Whencreatinganobject,avalidationerroroccurred.",
+        "zh": "当创建一个对象时，发生一个验证错误。"
+    },
+    "request.statusMsg.500": {
+        "en": "Theserverencounteredanerror,pleasechecktheserver.",
+        "zh": "服务器发生错误，请检查服务器。"
+    },
+    "request.statusMsg.502": {
+        "en": "Badgateway.",
+        "zh": "网关错误。"
+    },
+    "request.statusMsg.503": {
+        "en": "Theserviceisunavailable,theserveristemporarilyoverloadedormaintained.",
+        "zh": "服务不可用，服务器暂时过载或维护。"
+    },
+    "request.statusMsg.504": {
+        "en": "Gatewaytimedout.",
+        "zh": "网关超时。"
+    },
+    "request.statusFailedMsg.networkAbnormal": {
+        "en": "Yournetworkisabnormalandyoucannotconnecttotheserver",
+        "zh": "您的网络发生异常，无法连接服务器"
+    },
+    "request.statusFailedMsg.requestError": {
+        "en": "RequestError",
+        "zh": "请求错误"
+    },
+    "request.statusFailedMsg.accountDoesNotExist": {
+        "en": "Theaccountdoesnotexistorthepasswordisincorrect",
+        "zh": "账号不存在或密码错误"
+    },
+    "request.statusFailedMsg.pleaseLogInAgain": {
+        "en": "Pleaseloginagain",
+        "zh": "请重新登录"
+    },
+    "request.statusFailedMsg.networkError": {
+        "en": "NetworkError",
+        "zh": "网络异常"
+    },
+    "request.statusFailedMsg.downloadError": {
+        "en": "Downloaderror",
+        "zh": "下载出错"
+    },
+    "app.StockControl.SalesOrder.closed": {
+        "en": "Canceled",
+        "zh": "已取消"
+    },
+    "app.StockControl.SalesOrder.pendingOutbound": {
+        "en": "PendingOutbound",
+        "zh": "未出库"
+    },
+    "app.StockControl.SalesOrder.partiallyOutbound": {
+        "en": "PartiallyOutbound",
+        "zh": "部分出库"
+    },
+    "app.StockControl.SalesOrder.completedOutbound": {
+        "en": "CompletedOutbound",
+        "zh": "全部出库"
+    },
+    "app.StockControl.SalesOrder.NotWarehoused": {
+        "en": "PendingInbound",
+        "zh": "未入库"
+    },
+    "app.StockControl.SalesOrder.PartialWarehousing": {
+        "en": "PartiallyInbound",
+        "zh": "部分入库"
+    },
+    "app.StockControl.SalesOrder.AllWarehousing": {
+        "en": "CompletedInbound",
+        "zh": "全部入库"
+    },
+    "app.StockControl.SalesOrder.warehouseName": {
+        "en": "Warehouse",
+        "zh": "仓库"
+    },
+    "app.StockControl.SalesOrder.pleaseSelect": {
+        "en": "Pleaseselect",
+        "zh": "请选择"
+    },
+    "app.StockControl.SalesOrder.gmtCreate": {
+        "en": "DocumentDate",
+        "zh": "单据日期"
+    },
+    "app.StockControl.SalesOrder.productName": {
+        "en": "Tradename",
+        "zh": "商品名称"
+    },
+    "app.StockControl.SalesOrder.ID": {
+        "en": "No.",
+        "zh": "序号"
+    },
+    "app.StockControl.SalesOrder.option": {
+        "en": "Operation",
+        "zh": "操作"
+    },
+    "app.StockControl.SalesOrder.details": {
+        "en": "Detail",
+        "zh": "详情"
+    },
+    "app.StockControl.SalesOrder.salesOrderCode": {
+        "en": "DocumentNumber",
+        "zh": "单据编号"
+    },
+    "app.StockControl.SalesOrder.sourceUserName": {
+        "en": "Customer",
+        "zh": "客户"
+    },
+    "app.StockControl.SalesOrder.productSkuCount": {
+        "en": "Quantity",
+        "zh": "数量"
+    },
+    "app.StockControl.SalesOrder.salesAmount": {
+        "en": "SalesAmount",
+        "zh": "销售金额"
+    },
+    "app.StockControl.SalesOrder.receivedAmount": {
+        "en": "AmountReceived",
+        "zh": "本次收款"
+    },
+    "app.StockControl.SalesOrder.storageStatus": {
+        "en": "State",
+        "zh": "状态"
+    },
+    "app.StockControl.SalesOrder.paidStatusDesc": {
+        "en": "CollectionStatus",
+        "zh": "收款状态"
+    },
+    "app.StockControl.SalesOrder.createBy": {
+        "en": "Creater",
+        "zh": "制单人"
+    },
+    "app.StockControl.SalesOrder.queryTable": {
+        "en": "QueryTable",
+        "zh": "查询表格"
+    },
+    "app.StockControl.SalesOrder.orderDetails": {
+        "en": "Detail",
+        "zh": "销售单详情"
+    },
+    "app.StockControl.SalesOrder.product": {
+        "en": "Outboundgoods",
+        "zh": "出库商品"
+    },
+    "app.StockControl.SalesOrder.onWarehousing": {
+        "en": "Warehousing",
+        "zh": "入库"
+    },
+    "app.StockControl.SalesOrder.exWarehouse": {
+        "en": "Exwarehouse",
+        "zh": "出库"
+    },
+    "app.StockControl.SalesOrder.productSkuCode": {
+        "en": "Itemnumber",
+        "zh": "商品编号"
+    },
+    "app.StockControl.SalesOrder.productAttribute": {
+        "en": "Specifications",
+        "zh": "规格"
+    },
+    "app.StockControl.SalesOrder.productSaleUnit": {
+        "en": "Company",
+        "zh": "单位"
+    },
+    "app.StockControl.SalesOrder.productCount": {
+        "en": "Quantity",
+        "zh": "数量"
+    },
+    "app.StockControl.SalesOrder.productSkuPrice": {
+        "en": "Salesunitprice",
+        "zh": "销售单价"
+    },
+    "app.StockControl.SalesOrder.taxAmount": {
+        "en": "Amount",
+        "zh": "金额"
+    },
+    "app.StockControl.SalesOrder.productAmount": {
+        "en": "Commodityamount",
+        "zh": "商品金额"
+    },
+    "app.StockControl.SalesOrder.otherAmount": {
+        "en": "OtherFees",
+        "zh": "其他费用"
+    },
+    "app.StockControl.SalesOrder.settlementAccountId": {
+        "en": "SettlementAccount",
+        "zh": "结算账户"
+    },
+    "app.StockControl.SalesOrder.orderRemarks": {
+        "en": "Remark",
+        "zh": "备注"
+    },
+    "app.StockControl.SalesOrder.cash": {
+        "en": "Cash",
+        "zh": "现金"
+    },
+    "app.StockControl.SerialNumber.warehouseName": {
+        "en": "WarehouseName",
+        "zh": "仓库名称"
+    },
+    "app.StockControl.SerialNumber.serialNumber": {
+        "en": "SerialNumber",
+        "zh": "序列号"
+    },
+    "app.StockControl.SerialNumber.Id": {
+        "en": "No.",
+        "zh": "序号"
+    },
+    "app.StockControl.SerialNumber.option": {
+        "en": "Operation",
+        "zh": "操作"
+    },
+    "app.StockControl.SerialNumber.details": {
+        "en": "Detail",
+        "zh": "详情"
+    },
+    "app.StockControl.SerialNumber.productName": {
+        "en": "GoodsName",
+        "zh": "商品名称"
+    },
+    "app.StockControl.SerialNumber.skuId": {
+        "en": "GoodsNumber",
+        "zh": "商品编号"
+    },
+    "app.StockControl.SerialNumber.attributeValue": {
+        "en": "Goodsspecification",
+        "zh": "规格"
+    },
+    "app.StockControl.SerialNumber.saleUnit": {
+        "en": "Unit",
+        "zh": "单位"
+    },
+    "app.StockControl.SerialNumber.serialStatus": {
+        "en": "Status",
+        "zh": "状态"
+    },
+    "app.StockControl.SerialNumber.inWarehouse": {
+        "en": "Warehoused",
+        "zh": "在库"
+    },
+    "app.StockControl.SerialNumber.exWarehouse": {
+        "en": "Shipped",
+        "zh": "出库"
+    },
+    "app.StockControl.SerialNumber.storageTime": {
+        "en": "InboundTime",
+        "zh": "入库时间"
+    },
+    "app.StockControl.SerialNumber.outboundTime": {
+        "en": "OutboundTime",
+        "zh": "出库时间"
+    },
+    "app.StockControl.SerialNumber.queryTable": {
+        "en": "Selectform",
+        "zh": "查询表格"
+    },
+    "app.StockControl.SerialNumber.IMEIDeialis": {
+        "en": "SerialNumberDetails",
+        "zh": "IMEI详情"
+    },
+    "app.StockControl.SerialNumber.pleaseSelect": {
+        "en": "Pleaseselect",
+        "zh": "请选择"
+    },
+    "app.StockControl.SerialNumber.inboundQuantitySumAmount": {
+        "en": "Tobewarehoused",
+        "zh": "待入库"
+    },
+    "app.StockControl.SerialNumber.businessType": {
+        "en": "BusinessType",
+        "zh": "业务类型"
+    },
+    "app.StockControl.SerialNumber.businessTime": {
+        "en": "DocumentDate",
+        "zh": "单据日期"
+    },
+    "app.StockControl.SerialNumber.purchaseWarehousing": {
+        "en": "PurchaseInbound",
+        "zh": "采购入库"
+    },
+    "app.StockControl.SerialNumber.salesDelivery": {
+        "en": "SalesOutbound",
+        "zh": "销售出库"
+    },
+    "app.StockControl.SerialNumber.operationType": {
+        "en": "OperationType",
+        "zh": "操作类型"
+    },
+    "app.StockControl.SerialNumber.onWarehousing": {
+        "en": "Warehousing",
+        "zh": "入库"
+    },
+    "app.StockControl.SerialNumber.gmtCreate": {
+        "en": "OperationTime",
+        "zh": "操作时间"
+    },
+    "app.StockControl.SerialNumber.businessCode": {
+        "en": "OutboundorderNo.",
+        "zh": "出库单号"
+    },
+    "app.StockControl.SerialNumber.AddOffline": {
+        "en": "Createofflineorderoutbound",
+        "zh": "新增线下订单出库"
+    },
+    "app.StockControl.SerialNumber.AddElse": {
+        "en": "Createotheroutbound",
+        "zh": "新增其它出库"
+    },
+    "app.StockControl.SerialNumber.IMEI": {
+        "en": "IMEI",
+        "zh": "IMEI"
+    },
+    "app.setting.pagestyle": {
+        "en": "Pagestylesetting",
+        "zh": "整体风格设置"
+    },
+    "app.setting.pagestyle.dark": {
+        "en": "Darkstyle",
+        "zh": "暗色菜单风格"
+    },
+    "app.setting.pagestyle.light": {
+        "en": "Lightstyle",
+        "zh": "亮色菜单风格"
+    },
+    "app.setting.content-width": {
+        "en": "ContentWidth",
+        "zh": "内容区域宽度"
+    },
+    "app.setting.content-width.fixed": {
+        "en": "Fixed",
+        "zh": "定宽"
+    },
+    "app.setting.content-width.fluid": {
+        "en": "Fluid",
+        "zh": "流式"
+    },
+    "app.setting.themecolor": {
+        "en": "ThemeColor",
+        "zh": "主题色"
+    },
+    "app.setting.themecolor.dust": {
+        "en": "DustRed",
+        "zh": "薄暮"
+    },
+    "app.setting.themecolor.volcano": {
+        "en": "Volcano",
+        "zh": "火山"
+    },
+    "app.setting.themecolor.sunset": {
+        "en": "SunsetOrange",
+        "zh": "日暮"
+    },
+    "app.setting.themecolor.cyan": {
+        "en": "Cyan",
+        "zh": "明青"
+    },
+    "app.setting.themecolor.green": {
+        "en": "PolarGreen",
+        "zh": "极光绿"
+    },
+    "app.setting.themecolor.daybreak": {
+        "en": "DaybreakBlue(default)",
+        "zh": "拂晓蓝（默认）"
+    },
+    "app.setting.themecolor.geekblue": {
+        "en": "GeekGlue",
+        "zh": "极客蓝"
+    },
+    "app.setting.themecolor.purple": {
+        "en": "GoldenPurple",
+        "zh": "酱紫"
+    },
+    "app.setting.navigationmode": {
+        "en": "NavigationMode",
+        "zh": "导航模式"
+    },
+    "app.setting.sidemenu": {
+        "en": "SideMenuLayout",
+        "zh": "侧边菜单布局"
+    },
+    "app.setting.topmenu": {
+        "en": "TopMenuLayout",
+        "zh": "顶部菜单布局"
+    },
+    "app.setting.fixedheader": {
+        "en": "FixedHeader",
+        "zh": "固定Header"
+    },
+    "app.setting.fixedsidebar": {
+        "en": "FixedSidebar",
+        "zh": "固定侧边菜单"
+    },
+    "app.setting.fixedsidebar.hint": {
+        "en": "WorksonSideMenuLayout",
+        "zh": "侧边菜单布局时可配置"
+    },
+    "app.setting.hideheader": {
+        "en": "HiddenHeaderwhenscrolling",
+        "zh": "下滑时隐藏Header"
+    },
+    "app.setting.hideheader.hint": {
+        "en": "WorkswhenHiddenHeaderisenabled",
+        "zh": "固定Header时可配置"
+    },
+    "app.setting.othersettings": {
+        "en": "OtherSettings",
+        "zh": "其他设置"
+    },
+    "app.setting.weakmode": {
+        "en": "WeakMode",
+        "zh": "色弱模式"
+    },
+    "app.setting.copy": {
+        "en": "CopySetting",
+        "zh": "拷贝设置"
+    },
+    "app.setting.copyinfo": {
+        "en": "copysuccess，pleasereplacedefaultSettingsinsrc/models/setting.js",
+        "zh": "拷贝成功，请到config/defaultSettings.js中替换默认配置"
+    },
+    "app.setting.production.hint": {
+        "en": "Settingpanelshowsindevelopmentenvironmentonly,pleasemanuallymodify",
+        "zh": "配置栏只在开发环境用于预览，生产环境不会展现，请拷贝后手动修改配置文件"
+    },
+    "app.settings.menuMap.basic": {
+        "en": "BasicSettings",
+        "zh": "基本设置"
+    },
+    "app.settings.menuMap.security": {
+        "en": "SecuritySettings",
+        "zh": "安全设置"
+    },
+    "app.settings.menuMap.binding": {
+        "en": "AccountBinding",
+        "zh": "账号绑定"
+    },
+    "app.settings.menuMap.notification": {
+        "en": "NewMessageNotification",
+        "zh": "新消息通知"
+    },
+    "app.settings.basic.avatar": {
+        "en": "Avatar",
+        "zh": "头像"
+    },
+    "app.settings.basic.change-avatar": {
+        "en": "Changeavatar",
+        "zh": "更换头像"
+    },
+    "app.settings.basic.email": {
+        "en": "Email",
+        "zh": "邮箱"
+    },
+    "app.settings.basic.email-message": {
+        "en": "Pleaseinputyouremail!",
+        "zh": "请输入您的邮箱!"
+    },
+    "app.settings.basic.nickname": {
+        "en": "Nickname",
+        "zh": "昵称"
+    },
+    "app.settings.basic.nickname-message": {
+        "en": "PleaseinputyourNickname!",
+        "zh": "请输入您的昵称!"
+    },
+    "app.settings.basic.profile": {
+        "en": "Personalprofile",
+        "zh": "个人简介"
+    },
+    "app.settings.basic.profile-message": {
+        "en": "Pleaseinputyourpersonalprofile!",
+        "zh": "请输入个人简介!"
+    },
+    "app.settings.basic.profile-placeholder": {
+        "en": "Briefintroductiontoyourself",
+        "zh": "个人简介"
+    },
+    "app.settings.basic.country": {
+        "en": "Country/Region",
+        "zh": "国家/地区"
+    },
+    "app.settings.basic.country-message": {
+        "en": "Pleaseinputyourcountry!",
+        "zh": "请输入您的国家或地区!"
+    },
+    "app.settings.basic.geographic": {
+        "en": "Provinceorcity",
+        "zh": "所在省市"
+    },
+    "app.settings.basic.geographic-message": {
+        "en": "Pleaseinputyourgeographicinfo!",
+        "zh": "请输入您的所在省市!"
+    },
+    "app.settings.basic.address": {
+        "en": "StreetAddress",
+        "zh": "街道地址"
+    },
+    "app.settings.basic.address-message": {
+        "en": "Pleaseinputyouraddress!",
+        "zh": "请输入您的街道地址!"
+    },
+    "app.settings.basic.phone": {
+        "en": "PhoneNumber",
+        "zh": "联系电话"
+    },
+    "app.settings.basic.phone-message": {
+        "en": "Pleaseinputyourphone!",
+        "zh": "请输入您的联系电话!"
+    },
+    "app.settings.basic.update": {
+        "en": "UpdateInformation",
+        "zh": "更新基本信息"
+    },
+    "app.settings.security.strong": {
+        "en": "Strong",
+        "zh": "强"
+    },
+    "app.settings.security.medium": {
+        "en": "Medium",
+        "zh": "中"
+    },
+    "app.settings.security.weak": {
+        "en": "Weak",
+        "zh": "弱"
+    },
+    "app.settings.security.password": {
+        "en": "AccountPassword",
+        "zh": "账户密码"
+    },
+    "app.settings.security.password-description": {
+        "en": "Currentpasswordstrength",
+        "zh": "当前密码强度"
+    },
+    "app.settings.security.phone": {
+        "en": "SecurityPhone",
+        "zh": "密保手机"
+    },
+    "app.settings.security.phone-description": {
+        "en": "Boundphone",
+        "zh": "已绑定手机"
+    },
+    "app.settings.security.question": {
+        "en": "SecurityQuestion",
+        "zh": "密保问题"
+    },
+    "app.settings.security.question-description": {
+        "en": "Thesecurityquestionisnotset,andthesecuritypolicycaneffectivelyprotecttheaccountsecurity",
+        "zh": "未设置密保问题，密保问题可有效保护账户安全"
+    },
+    "app.settings.security.email": {
+        "en": "BackupEmail",
+        "zh": "备用邮箱"
+    },
+    "app.settings.security.email-description": {
+        "en": "BoundEmail",
+        "zh": "已绑定邮箱"
+    },
+    "app.settings.security.mfa": {
+        "en": "MFADevice",
+        "zh": "MFA设备"
+    },
+    "app.settings.security.mfa-description": {
+        "en": "UnboundMFAdevice,afterbinding,canbeconfirmedtwice",
+        "zh": "未绑定MFA设备，绑定后，可以进行二次确认"
+    },
+    "app.settings.security.modify": {
+        "en": "Modify",
+        "zh": "修改"
+    },
+    "app.settings.security.set": {
+        "en": "Set",
+        "zh": "设置"
+    },
+    "app.settings.security.bind": {
+        "en": "Bind",
+        "zh": "绑定"
+    },
+    "app.settings.binding.taobao": {
+        "en": "BindingTaobao",
+        "zh": "绑定淘宝"
+    },
+    "app.settings.binding.taobao-description": {
+        "en": "CurrentlyunboundTaobaoaccount",
+        "zh": "当前未绑定淘宝账号"
+    },
+    "app.settings.binding.alipay": {
+        "en": "BindingAlipay",
+        "zh": "绑定支付宝"
+    },
+    "app.settings.binding.alipay-description": {
+        "en": "CurrentlyunboundAlipayaccount",
+        "zh": "当前未绑定支付宝账号"
+    },
+    "app.settings.binding.dingding": {
+        "en": "BindingDingTalk",
+        "zh": "绑定钉钉"
+    },
+    "app.settings.binding.dingding-description": {
+        "en": "CurrentlyunboundDingTalkaccount",
+        "zh": "当前未绑定钉钉账号"
+    },
+    "app.settings.binding.bind": {
+        "en": "Bind",
+        "zh": "绑定"
+    },
+    "app.settings.notification.password": {
+        "en": "AccountPassword",
+        "zh": "账户密码"
+    },
+    "app.settings.notification.password-description": {
+        "en": "Messagesfromotheruserswillbenotifiedintheformofastationletter",
+        "zh": "其他用户的消息将以站内信的形式通知"
+    },
+    "app.settings.notification.messages": {
+        "en": "SystemMessages",
+        "zh": "系统消息"
+    },
+    "app.settings.notification.messages-description": {
+        "en": "Systemmessageswillbenotifiedintheformofastationletter",
+        "zh": "系统消息将以站内信的形式通知"
+    },
+    "app.settings.notification.todo": {
+        "en": "To-doNotification",
+        "zh": "待办任务"
+    },
+    "app.settings.notification.todo-description": {
+        "en": "Theto-dolistwillbenotifiedintheformofaletterfromthestation",
+        "zh": "待办任务将以站内信的形式通知"
+    },
+    "app.settings.open": {
+        "en": "Open",
+        "zh": "开"
+    },
+    "app.settings.close": {
+        "en": "Close",
+        "zh": "关"
+    },
+    "app.settings.Edit": {
+        "en": "Edit",
+        "zh": "编辑"
+    },
+    "app.settings.supplierName": {
+        "en": "SupplierName"
+    },
+    "app.settings.supplierAddress": {
+        "en": "Supplieraddress"
+    },
+    "app.settings.supplierCode": {
+        "en": "Suppliercode"
+    },
+    "app.settings.remarks": {
+        "en": "Remarks"
+    },
+    "app.settings.reset": {
+        "en": "Reset"
+    },
+    "app.settings.submit": {
+        "en": "Submit"
+    },
+    "app.settings.Contacts": {
+        "en": "Contacts"
+    },
+    "app.settings.Telephone": {
+        "en": "Telephone"
+    },
+    "app.settings.supplierPhone": {
+        "en": "Supplierphone"
+    },
+    "app.settings.Address": {
+        "en": "Address"
+    },
+    "app.settings.Remarks": {
+        "en": "Remarks"
+    },
+    "app.settings.States": {
+        "en": "States"
+    },
+    "app.settings.queryTable": {
+        "en": "QueryTable"
+    },
+    "app.settings.addSupplier": {
+        "en": "Addsupplier"
+    },
+    "app.settings.createSupplier": {
+        "en": "Createsupplier"
+    },
+    "app.settings.warehouseAddress": {
+        "en": "Warehouseaddress"
+    },
+    "app.settings.warehouseContacter": {
+        "en": "Warehousecontacter"
+    },
+    "app.settings.warehousePhone": {
+        "en": "Warehousephone"
+    },
+    "app.settings.wareHouseName": {
+        "en": "WarehouseName"
+    },
+    "app.settings.wareHouseCode": {
+        "en": "WareHousecode"
+    },
+    "app.settings.createWarehouse": {
+        "en": "Createwarehouse"
+    },
+    "app.settings.updateWarehouse": {
+        "en": "Updatewarehouse"
+    },
+    "app.settings.shipmentSettings": {
+        "en": "Shipmentsettings"
+    },
+    "app.settings.updateWarehouseInformation": {
+        "en": "Updatewarehouseinformation"
+    },
+    "app.settings.warehouseTelephone": {
+        "en": "Warehousetelephone"
+    },
+    "app.settings.warehouseRemark": {
+        "en": "Warehouseremark"
+    },
+    "app.settings.supplierContacter": {
+        "en": "Suppliercontacter"
+    },
+    "app.settings.canSendRegion": {
+        "en": "CoverageArea"
+    },
+    "app.settings.setWarehousePriority": {
+        "en": "Setwarehousepriority"
+    },
+    "app.settings.sortingAdjustment": {
+        "en": "Sortingadjustment"
+    },
+    "app.settings.up": {
+        "en": "up",
+        "zh": "向上"
+    },
+    "app.settings.down": {
+        "en": "down",
+        "zh": "向下"
+    },
+    "app.settings.reset-password": {
+        "en": "Resetpassword",
+        "zh": "重置密码"
+    },
+    "app.settings.operation": {
+        "en": "Operation",
+        "zh": "操作"
+    },
+    "app.settings.account.login-name": {
+        "en": "Log-inname",
+        "zh": "登录名"
+    },
+    "app.settings.account.name": {
+        "en": "Name",
+        "zh": "姓名"
+    },
+    "app.settings.account.role": {
+        "en": "Role",
+        "zh": "角色"
+    },
+    "app.settings.account.phone": {
+        "en": "Telephone",
+        "zh": "电话"
+    },
+    "app.settings.account.condition": {
+        "en": "Status",
+        "zh": "状态"
+    },
+    "app.settings.account.inquiry-form": {
+        "en": "Inquiryform",
+        "zh": "查询表格"
+    },
+    "app.settings.account.new-employee": {
+        "en": "Newemployee",
+        "zh": "新建员工"
+    },
+    "app.settings.account.edit-staff": {
+        "en": "Editstaff",
+        "zh": "编辑员工"
+    },
+    "app.settings.account.reset": {
+        "en": "Reset",
+        "zh": "重置"
+    },
+    "app.settings.account.submit": {
+        "en": "Submit",
+        "zh": "提交"
+    },
+    "app.settings.account.please-enter-your-login-name": {
+        "en": "Pleaseenteryourloginname",
+        "zh": "请输入登录名"
+    },
+    "app.settings.account.login-name-is-required": {
+        "en": "Loginisrequired",
+        "zh": "登录名是必填项"
+    },
+    "app.settings.account.basic-information": {
+        "en": "BasicInformation",
+        "zh": "基本信息"
+    },
+    "app.settings.account.please-enter-password": {
+        "en": "Pleaseenterpassword",
+        "zh": "请输入密码"
+    },
+    "app.settings.account.password-is-required": {
+        "en": "Passwordisrequired",
+        "zh": "密码为必填项"
+    },
+    "app.settings.account.authority-management": {
+        "en": "AuthorityManagement",
+        "zh": "权限管理"
+    },
+    "app.settings.account.please-select-a-role": {
+        "en": "Pleaseselectarole",
+        "zh": "请选择角色"
+    },
+    "app.settings.account.storehouse": {
+        "en": "Storehouse",
+        "zh": "仓库"
+    },
+    "app.settings.account.confirm-password": {
+        "en": "ConfirmPassword",
+        "zh": "确认密码"
+    },
+    "app.settings.account.please-confirm-you-password": {
+        "en": "Pleaseconfirmyourpassword!",
+        "zh": "请确认您的密码!"
+    },
+    "app.settings.account.the-two-passwords-that-you-entered-do-not-match": {
+        "en": "Thetwopasswordsyouentereddonotmatch!",
+        "zh": "您输入的两个密码不匹配!"
+    },
+    "app.settings.account.editing": {
+        "en": "Editing",
+        "zh": "正在编辑"
+    },
+    "app.settings.account.adding": {
+        "en": "Adding",
+        "zh": "正在添加"
+    },
+    "app.settings.account.edited-successfully": {
+        "en": "Editedsuccessfully",
+        "zh": "编辑成功"
+    },
+    "app.settings.account.added-successfully": {
+        "en": "Addedsuccessfully",
+        "zh": "添加成功"
+    },
+    "app.settings.account.edit-failed": {
+        "en": "Editfailed",
+        "zh": "编辑失败"
+    },
+    "app.settings.account.add-failed": {
+        "en": "Addfailed",
+        "zh": "添加失败"
+    },
+    "app.settings.account.edit-failed-please-try-again": {
+        "en": "Editfailed,pleasetryagain!",
+        "zh": "编辑失败请重试！"
+    },
+    "app.settings.account.failed-to-add-please-try-again": {
+        "en": "Failedtoaddpleasetryagain!",
+        "zh": "添加失败请重试！"
+    },
+    "app.settings.account.resetting": {
+        "en": "Resetting",
+        "zh": "正在重置"
+    },
+    "app.settings.account.reset-failed": {
+        "en": "Resetfailed",
+        "zh": "重置失败"
+    },
+    "app.settings.account.reset-failed-please-try-again": {
+        "en": "Resetfailed,pleasetryagain!",
+        "zh": "重置失败请重试！"
+    },
+    "app.settings.account.operation-failed": {
+        "en": "Operationfailed",
+        "zh": "操作失败"
+    },
+    "app.settings.account.login-name-phone": {
+        "en": "Log-inname/Name/Telephone",
+        "zh": "登录名/姓名/电话"
+    },
+    "app.settings.account.permission-settings": {
+        "en": "Permissionsettings",
+        "zh": "权限设置"
+    },
+    "app.settings.account.character-name": {
+        "en": "CharacterName",
+        "zh": "角色名"
+    },
+    "app.settings.account.describe": {
+        "en": "Describe",
+        "zh": "描述"
+    },
+    "app.settings.account.role-form": {
+        "en": "Roleform",
+        "zh": "角色表格"
+    },
+    "app.settings.account.new-role": {
+        "en": "Newrole",
+        "zh": "新建角色"
+    },
+    "app.settings.account.edit-role": {
+        "en": "Editrole",
+        "zh": "编辑角色"
+    },
+    "app.settings.account.login-role-name-is-required": {
+        "en": "Loginrolenameisrequired",
+        "zh": "登录角色名称为必填项"
+    },
+    "app.settings.account.under-revision": {
+        "en": "Underrevision",
+        "zh": "正在修改"
+    },
+    "app.settings.account.successfully-modified": {
+        "en": "Successfullymodified",
+        "zh": "修改成功"
+    },
+    "app.settings.account.modify-failed-please-try-again": {
+        "en": "Modifyfailed,pleasetryagain!",
+        "zh": "修改失败请重试！"
+    },
+    "app.settings.account.save": {
+        "en": "Save",
+        "zh": "保存"
+    },
+    "app.settings.business.saving": {
+        "en": "Saving",
+        "zh": "正在保存"
+    },
+    "app.settings.business.save-successfully": {
+        "en": "Savesuccessfully",
+        "zh": "保存成功"
+    },
+    "app.settings.business.save-failed-please-try-again": {
+        "en": "Savefailedpleasetryagain!",
+        "zh": "保存失败请重试！"
+    },
+    "app.settings.business.enable-the-serial-number-feature": {
+        "en": "Enabletheserialnumberfunction(whenturnedon,whenaddingnewproducts,youcanchoosewhethertheproducthasserialnumbermanagementenabled)",
+        "zh": "启用序列号功能（开启后将在新增商品时，可以选择商品是否启用序列号管理）"
+    },
+    "app.settings.business.enable-sales-tax-rates": {
+        "en": "Enablesalestaxrates",
+        "zh": "启用销售税率"
+    },
+    "app.settings.business.default-tax-rate": {
+        "en": "Thedefaulttaxrate",
+        "zh": "默认税率"
+    },
+    "app.settings.business.enable-the-purchase-tax-rate": {
+        "en": "Enablethepurchasetaxrate",
+        "zh": "启用采购税率"
+    },
+    "app.settings.business.enable-automatic-ingestion": {
+        "en": "Enableautomaticshipping(afteropening,thewarehousingdocumentswillbeautomaticallycompleted,noneedtomanuallyconfirmthewarehousing)",
+        "zh": "启用自动入库（开启后入库单据将自动完成入库，无需手动确认入库）"
+    },
+    "app.settings.business.enable-automatic-outbound": {
+        "en": "Enableautomaticoutbound(afteropening,theincomingdocumentswillautomaticallycompletetheoutbound,noneedtomanuallyconfirmtheoutbound)",
+        "zh": "启用自动出库（开启后入库单据将自动完成出库，无需手动确认出库）"
+    },
+    "table.table.number": {
+        "en": "No.",
+        "zh": "序号"
+    },
+    "table.table.operate": {
+        "en": "Operate",
+        "zh": "操作"
+    },
+    "table.table.yes": {
+        "en": "Yes",
+        "zh": "是"
+    },
+    "table.table.no": {
+        "en": "No",
+        "zh": "否"
+    },
+    "table.table.createManually": {
+        "en": "CreateManually",
+        "zh": "手动创建"
+    },
+    "table.table.quantity": {
+        "en": "Quantity",
+        "zh": "数量"
+    },
+    "warehousing.PendingStorage": {
+        "en": "Pendingstorage",
+        "zh": "待入库"
+    },
+    "warehousing.InStock": {
+        "en": "Instock",
+        "zh": "已入库"
+    },
+    "navBar.lang": {
+        "en": "Languages",
+        "zh": "语言"
+    },
+    "layout.user.link.help": {
+        "en": "Help",
+        "zh": "帮助"
+    },
+    "layout.user.link.privacy": {
+        "en": "Privacy",
+        "zh": "隐私"
+    },
+    "layout.user.link.terms": {
+        "en": "Terms",
+        "zh": "条款"
+    },
+    "app.copyright.produced": {
+        "en": "Copyright©2022EgateeInc",
+        "zh": "Copyright©2022EgateeInc"
+    },
+    "app.preview.down.block": {
+        "en": "Downloadthispagetoyourlocalproject",
+        "zh": "下载此页面到本地项目"
+    },
+    "app.welcome.link.fetch-blocks": {
+        "en": "Getallblock",
+        "zh": "获取全部区块"
+    },
+    "app.welcome.link.block-list": {
+        "en": "Quicklybuildstandard,pagesbasedon`block`development",
+        "zh": "基于block开发，快速构建标准页面"
+    },
+    "panelTab.close": {
+        "en": "Close",
+        "zh": "关闭"
+    },
+    "panelTab.closeOther": {
+        "en": "Closeother",
+        "zh": "关闭其它"
+    },
+    "panelTab.closeAll": {
+        "en": "closeall",
+        "zh": "全部关闭"
+    },
+    "panelTab.refresh": {
+        "en": "Refresh",
+        "zh": "刷新"
+    },
+    "panelTab.tabsLimitWarnTitle": {
+        "en": "Tips",
+        "zh": "提示"
+    },
+    "panelTab.404.subTitle": {
+        "en": "SubTitle",
+        "zh": "SubTitle"
+    },
+    "panelTab.closePage": {
+        "en": "Closepage",
+        "zh": "关闭"
+    },
+    "panelTab.tabsLimitWarnContent": {
+        "en": "Youarecurrentlyopeningtoomanypages,pleasecloseunusedpagestoreducelag!",
+        "zh": "您当前打开页面过多,请关闭不使用的页面以减少卡顿!"
+    },
+    "app.StockControl.InventoryQuery.warehouseName": {
+        "zh": "仓库"
+    },
+    "menu.Purchasing.PurchaseOrder.Add": {
+        "zh": "新建采购订单"
+    },
+    "menu.PurchaseOrderDetail": {
+        "zh": "新建采购订单"
+    }
+}

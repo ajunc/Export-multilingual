@@ -1,0 +1,21 @@
+{
+  "name": "muti-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multi-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node export-test.js 'D:\\psi-ui\\psi-ui\\src\\locales\\en-US\\button.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/parser": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/traverse": "^7.17.3"
+  },
+  "dependencies": {
+    "excel-export": "^0.5.1"
+  }
+}
